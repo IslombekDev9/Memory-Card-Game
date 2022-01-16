@@ -1,0 +1,262 @@
+@media (max-width: 600px) {
+    .card {
+        width: 90px;
+        height: 90px;
+        margin: 9px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .card i {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 550px) {
+    .card {
+        width: 85px;
+        height: 85px;
+        margin: 8.5px;
+    }
+    h1 {
+        font-size: 29px;
+    }
+    .container {
+        width: 430px;
+    }
+    .card i {
+        font-size: 26px;
+    }
+} 
+
+@media (max-width: 500px) {
+    .card {
+        width: 80px;
+        height: 80px;
+        margin: 8px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    .container {
+        width: 390px;
+    }
+    .card i {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 450px) {
+    .card {
+        width: 75px;
+        height: 75px;
+        margin: 7px;
+    }
+    h1 {
+        font-size: 22px;
+    }
+    .container {
+        width: 360px;
+    }
+    .small {
+        font-size: 11px;
+    }
+    .card i {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 400px) {
+    .card {
+        width: 60px;
+        height: 60px;
+        margin: 6.5px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .container {
+        width: 330px;
+    }
+    .card i {
+        font-size: 21px;
+    }
+}
+
+@media (max-width: 360px) {
+    .card {
+        width: 55px;
+        height: 55px;
+        margin: 6px;
+    }    
+    h1 {
+        font-size: 18px;
+    }
+    .container {
+        width: 310px;
+    }
+    .small {
+        font-size: 10px;
+    }
+    .card i {
+        font-size: 20px;
+    }
+} 
+
+@media (max-width: 330px) {
+    .card {
+        width: 40px;
+        height: 40px;
+        margin: 5px;
+    }    
+    h1 {
+        font-size: 16px;
+    }
+    .container {
+        width: 260px;
+    }
+    .small {
+        font-size: 7px;
+    }
+    .card i {
+        font-size: 18px;
+    }
+} 
+
+@media (max-width: 300px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        min-height: 300px;
+        width: 280px;
+    }
+    .card {
+        width: 65px;
+        height: 65px;
+        margin: 6px;
+    } 
+    h1 {
+        font-size: 22px;
+    }
+    .small {
+        font-size: 12px;
+    }
+    .card i {
+        font-size: 20px;
+    }
+} 
+
+@media (max-width: 300px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        min-height: 260px;
+        width: 150px;
+    }
+    .card {
+        width: 45px;
+        height: 45px;
+        margin: 4.5px;
+    } 
+    h1 {
+        font-size: 18px;
+    }
+    .small {
+        font-size: 8px;
+    }
+    .card i {
+        font-size: 18px;
+    }
+} 
+
+@media (max-width: 200px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        min-height: 230px;
+        width: 130px;
+    }
+    .card {
+        width: 35px;
+        height: 35px;
+        margin: 3px;
+    } 
+    h1 {
+        font-size: 18px;
+    }
+    .small {
+        font-size: 4px;
+    }
+    .card i {
+        font-size: 20px;
+    }
+} 
+
+@media (max-width: 150px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        min-height: 200px;
+        width: 100px;
+    }
+    .card {
+        width: 40px;
+        height: 40px;
+        margin: 3px;
+    } 
+    h1 {
+        font-size: 20px;
+    }
+    .small {
+        font-size: 6px;
+    }
+    .card i {
+        font-size: 16px;
+    }
+} 
+
+@media (max-width: 100px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr;
+        min-height: 200px;
+        width: 80px;
+    }
+    .card {
+        width: 60px;
+        height: 60px;
+        margin: 6px;
+    } 
+    h1 {
+        font-size: 15px;
+    }
+    .small {
+        font-size: 10px;
+    }
+    .card i {
+        font-size: 15px;
+    }
+} 
+
+@media (max-width: 65px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr;
+        min-height: 180px;
+        width: 50px;
+    }
+    .card {
+        width: 45px;
+        height: 45px;
+        margin: 1px;
+    }
+    h1 {
+        font-size: 12px;
+    }
+    .small {
+        font-size: 8px;
+    }
+    .card i {
+        font-size: 14px;
+    }
+}
